@@ -1,2 +1,2 @@
-# PAG-WWW_Project
+# PAG-WWW Project
 Réalisation d’abstractions sur des intervalles de variables.
